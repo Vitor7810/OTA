@@ -1,0 +1,66 @@
+<SlimOTA
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+  <Stable>
+
+    <surnia>
+      <Filename>BootleggersROM-Oreo4surnia.2.0-BETA-Unshishufied-20180224.zip</Filename>
+      <RomUrl id="rom" title="" description="">
+      https://sourceforge.net/projects/bootleggersrom/files/surnia
+      </RomUrl>
+      <RomMirrorUrl id="romirror" title="Mirror" description="Get the link from another place">
+      https://google.se
+      </RomMirrorUrl>
+      <!--
+	  <ChangelogUrl id="changelog" title="" description="">
+	  https://github.com/bootleggersrom
+	  </ChangelogUrl>-->
+      <AddonsURL id="addons" title="Check our addons!" description="Didn't we tell you about this yet?">https://bootleggersrom.github.io/romstuff/addons</AddonsURL>
+    </surnia>
+
+    <mido>
+      <Filename>BootleggersROM-Oreo4mido.2.0-BETA-Unshishufied-20180224.zip</Filename>
+      <RomUrl id="rom" title="" description="">
+      https://sourceforge.net/projects/bootleggersrom/files/mido
+      </RomUrl>
+      <RomMirrorUrl id="romirror" title="Mirror" description="Get the link from another place">
+      https://google.se
+      </RomMirrorUrl>
+      <!--
+	  <ChangelogUrl id="changelog" title="" description="">
+	  https://github.com/bootleggersrom
+	  </ChangelogUrl>-->
+      <AddonsURL id="addons" title="Check our addons!" description="Didn't we tell you about this yet?">https://bootleggersrom.github.io/romstuff/addons</AddonsURL>
+    </mido>
+
+    <land>
+      <Filename>BootleggersROM-Oreo4land.2.0-BETA-Unshishufied-20180224.zip</Filename>
+      <RomUrl id="rom" title="" description="">
+      https://sourceforge.net/projects/bootleggersrom/files/land
+      </RomUrl>
+      <RomMirrorUrl id="romirror" title="Mirror" description="Get the link from another place">
+      https://google.se
+      </RomMirrorUrl>
+      <!--
+	  <ChangelogUrl id="changelog" title="" description="">
+	  https://github.com/bootleggersrom
+	  </ChangelogUrl>-->
+      <AddonsURL id="addons" title="Check our addons!" description="Didn't we tell you about this yet?">https://bootleggersrom.github.io/romstuff/addons</AddonsURL>
+    </land>
+
+    <kenzo>
+      <Filename>BootleggersROM-Oreo4kenzo.2.0-BETA-Unshishufied-20180224.zip</Filename>
+      <RomUrl id="rom" title="" description="">
+      https://sourceforge.net/projects/bootleggersrom/files/kenzo
+      </RomUrl>
+      <RomMirrorUrl id="romirror" title="Mirror" description="Get the link from another place">
+      https://google.se
+      </RomMirrorUrl>
+      <!--
+	  <ChangelogUrl id="changelog" title="" description="">
+	  https://github.com/bootleggersrom
+	  </ChangelogUrl>-->
+      <AddonsURL id="addons" title="Check our addons!" description="Didn't we tell you about this yet?">https://bootleggersrom.github.io/romstuff/addons</AddonsURL>
+    </kenzo>
+
+  </Stable>
+</SlimOTA>
