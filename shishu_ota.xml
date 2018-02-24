@@ -4,12 +4,8 @@
 
     <surnia>
       <Filename>BootleggersROM-Oreo4surnia.2.0-BETA-Unshishufied-20180224.zip</Filename>
-      <RomUrl id="rom" title="" description="">
-      https://sourceforge.net/projects/bootleggersrom/files/surnia
-      </RomUrl>
-      <RomMirrorUrl id="romirror" title="Mirror" description="Get the link from another place">
-      https://google.se
-      </RomMirrorUrl>
+      <RomUrl id="rom" title="" description="">https://sourceforge.net/projects/bootleggersrom/files/surnia</RomUrl>
+      <RomMirrorUrl id="romirror" title="Mirror" description="Get the link from another place">https://google.se</RomMirrorUrl>
       <!--
 	  <ChangelogUrl id="changelog" title="" description="">
 	  https://github.com/bootleggersrom
@@ -19,12 +15,8 @@
 
     <mido>
       <Filename>BootleggersROM-Oreo4mido.2.0-BETA-Unshishufied-20180224.zip</Filename>
-      <RomUrl id="rom" title="" description="">
-      https://sourceforge.net/projects/bootleggersrom/files/mido
-      </RomUrl>
-      <RomMirrorUrl id="romirror" title="Mirror" description="Get the link from another place">
-      https://google.se
-      </RomMirrorUrl>
+      <RomUrl id="rom" title="" description="">https://sourceforge.net/projects/bootleggersrom/files/mido</RomUrl>
+      <RomMirrorUrl id="romirror" title="Mirror" description="Get the link from another place">https://google.se</RomMirrorUrl>
       <!--
 	  <ChangelogUrl id="changelog" title="" description="">
 	  https://github.com/bootleggersrom
@@ -34,12 +26,8 @@
 
     <land>
       <Filename>BootleggersROM-Oreo4land.2.0-BETA-Unshishufied-20180224.zip</Filename>
-      <RomUrl id="rom" title="" description="">
-      https://sourceforge.net/projects/bootleggersrom/files/land
-      </RomUrl>
-      <RomMirrorUrl id="romirror" title="Mirror" description="Get the link from another place">
-      https://google.se
-      </RomMirrorUrl>
+      <RomUrl id="rom" title="" description="">https://sourceforge.net/projects/bootleggersrom/files/land</RomUrl>
+      <RomMirrorUrl id="romirror" title="Mirror" description="Get the link from another place">https://google.se</RomMirrorUrl>
       <!--
 	  <ChangelogUrl id="changelog" title="" description="">
 	  https://github.com/bootleggersrom
@@ -49,12 +37,8 @@
 
     <kenzo>
       <Filename>BootleggersROM-Oreo4kenzo.2.0-BETA-Unshishufied-20180224.zip</Filename>
-      <RomUrl id="rom" title="" description="">
-      https://sourceforge.net/projects/bootleggersrom/files/kenzo
-      </RomUrl>
-      <RomMirrorUrl id="romirror" title="Mirror" description="Get the link from another place">
-      https://google.se
-      </RomMirrorUrl>
+      <RomUrl id="rom" title="" description="">https://sourceforge.net/projects/bootleggersrom/files/kenzo</RomUrl>
+      <RomMirrorUrl id="romirror" title="Mirror" description="Get the link from another place">https://google.se</RomMirrorUrl>
       <!--
 	  <ChangelogUrl id="changelog" title="" description="">
 	  https://github.com/bootleggersrom
