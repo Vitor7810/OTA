@@ -46,5 +46,16 @@
       <AddonsURL id="addons" title="Check our addons!" description="Didn't we tell you about this yet?">https://bootleggersrom.github.io/romstuff/addons</AddonsURL>
     </kenzo>
 
+    <lettuce>
+      <Filename>BootleggersROM-Oreo4lettuce.2.0-BETA-Unshishufied-20180224.zip</Filename>
+      <RomUrl id="rom" title="" description="">https://sourceforge.net/projects/bootleggersrom/files/lettuce</RomUrl>
+      <RomMirrorUrl id="romirror" title="Mirror" description="Get the link from another place">https://google.se</RomMirrorUrl>
+      <!--
+	  <ChangelogUrl id="changelog" title="" description="">
+	  https://github.com/bootleggersrom
+	  </ChangelogUrl>-->
+      <AddonsURL id="addons" title="Check our addons!" description="Didn't we tell you about this yet?">https://bootleggersrom.github.io/romstuff/addons</AddonsURL>
+    </lettuce>
+
   </Stable>
 </SlimOTA>
