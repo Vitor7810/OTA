@@ -56,6 +56,17 @@
 	  </ChangelogUrl>-->
       <AddonsURL id="addons" title="Check our addons!" description="Didn't we tell you about this yet?">https://bootleggersrom.github.io/romstuff/addons</AddonsURL>
     </lettuce>
-
+	  
+    <A6020>
+      <Filename>BootleggersROM-Oreo4A6020.2.1-Stable-Shishufied-20180304.zip</Filename>
+      <RomUrl id="rom" title="" description="">https://sourceforge.net/projects/bootleggersrom/files/A6020</RomUrl>
+      <RomMirrorUrl id="romirror" title="Mirror" description="Get the link from another place">https://google.se</RomMirrorUrl>
+      <!--
+	  <ChangelogUrl id="changelog" title="" description="">
+	  https://github.com/bootleggersrom
+	  </ChangelogUrl>-->
+      <AddonsURL id="addons" title="Check our addons!" description="Didn't we tell you about this yet?">https://bootleggersrom.github.io/romstuff/addons</AddonsURL>
+    </A6020>	
+	  
   </Stable>
 </SlimOTA>
