@@ -67,6 +67,17 @@
 	  </ChangelogUrl>-->
       <AddonsURL id="addons" title="Check our addons!" description="Didn't we tell you about this yet?">https://bootleggersrom.github.io/romstuff/addons</AddonsURL>
     </A6020>	
+
+    <cedric>
+      <Filename>BootleggersROM-Oreo4cedric.2.1-Stable-Shishufied-20180306.zip</Filename>
+      <RomUrl id="rom" title="" description="">https://sourceforge.net/projects/bootleggersrom/files/cedric</RomUrl>
+      <RomMirrorUrl id="romirror" title="Mirror" description="Get the link from another place">https://google.se</RomMirrorUrl>
+      <!--
+	  <ChangelogUrl id="changelog" title="" description="">
+	  https://github.com/bootleggersrom
+	  </ChangelogUrl>-->
+      <AddonsURL id="addons" title="Check our addons!" description="Didn't we tell you about this yet?">https://bootleggersrom.github.io/romstuff/addons</AddonsURL>
+    </cedric>	  
 	  
   </Stable>
 </SlimOTA>
