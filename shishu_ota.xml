@@ -89,6 +89,17 @@
 	  </ChangelogUrl>-->
       <AddonsURL id="addons" title="Check our addons!" description="Didn't we tell you about this yet?">https://bootleggersrom.github.io/romstuff/addons</AddonsURL>
     </sanders> 
+    
 	  
+    <z2_plus>
+      <Filename>BootleggersROM-Oreo4z2_plus.2.1-Stable-Shishufied-20180311.zip</Filename>
+      <RomUrl id="rom" title="" description="">https://www.androidfilehost.com/?fid=962187416754467201</RomUrl>
+      <RomMirrorUrl id="romirror" title="Mirror" description="Get the link from another place">https://google.se</RomMirrorUrl>
+      <!--
+	  <ChangelogUrl id="changelog" title="" description="">
+	  https://github.com/bootleggersrom
+	  </ChangelogUrl>-->
+      <AddonsURL id="addons" title="Check our addons!" description="Didn't we tell you about this yet?">https://bootleggersrom.github.io/romstuff/addons</AddonsURL>
+    </z2_plus> 
   </Stable>
 </SlimOTA>
