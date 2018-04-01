@@ -122,6 +122,17 @@
 	  </ChangelogUrl>-->
       <AddonsURL id="addons" title="Check our addons!" description="Didn't we tell you about this yet?">https://bootleggersrom.github.io/romstuff/addons</AddonsURL>  
     <tissot>
-      
+	
+    <Z00L>
+      <Filename>BootleggersROM-Oreo4Z00L.2.1-Stable-Shishufied-20180330.zip</Filename>
+      <RomUrl id="rom" title="" description="https://sourceforge.net/projects/asus-zenfone-2-laser/files/BootleggersRom/BootleggersROM-Oreo4Z00L.2.1-Stable-MinimalShishu-20180330.zip/download"></RomUrl>
+      <RomMirrorUrl id="romirror" title="Mirror" description="Get the link from another place">google.se</RomMirrorUrl>
+      <!--
+          <ChangelogUrl id="changelog" title="" description="">
+	  https://github.com/bootleggersrom
+	  </ChangelogUrl>-->
+      <AddonsURL id="addons" title="Check our addons!" description="Didn't we tell you about this yet?">https://bootleggersrom.github.io/romstuff/addons</AddonsURL>  
+    <Z00L>
+	    
   </Stable>	  
 </SlimOTA>
