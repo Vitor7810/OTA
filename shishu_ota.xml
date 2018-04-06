@@ -127,10 +127,7 @@
       <Filename>BootleggersROM-Oreo4Z00L.2.1-Stable-Shishufied-20180404.zip</Filename>
       <RomUrl id="rom" title="" description="https://sourceforge.net/projects/asus-zenfone-2-laser/files/BootleggersRom/BootleggersROM-Oreo4Z00L.2.1-Stable-Shishufied-20180404.zip/download"></RomUrl>
       <RomMirrorUrl id="romirror" title="Mirror" description="Get the link from another place">google.se</RomMirrorUrl>
-      <!--
-          <ChangelogUrl id="changelog" title="" description="">
-	  https://github.com/bootleggersrom
-	  </ChangelogUrl>-->
+          <ChangelogUrl id="Changelogs" title="Check The Latest Changes" description="https://github.com/BootleggersROM-Devices/OTA/raw/master/Changlogs/Changlog_Z00L.xml"></ChangelogUrl>
       <AddonsURL id="addons" title="Check our addons!" description="Didn't we tell you about this yet?">https://bootleggersrom.github.io/romstuff/addons</AddonsURL>  
     </Z00L>
 	    
