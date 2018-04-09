@@ -125,8 +125,8 @@
 	
     <Z00L>
       <Filename>BootleggersROM-Oreo4Z00L.2.1-Stable-Shishufied-20180409.zip</Filename>
-      <RomUrl id="rom" title="" description=" ">https://sourceforge.net/projects/zf2l/files/BootleggersRom/BootleggersROM-Oreo4Z00L.2.1-Stable-Shishufied-20180409.zip/download</RomUrl>
-      <RomMirrorUrl id="romirror" title="Mirror" description="Get the link from another place">https://androidfilehost.com/?fid=746010030569967788</RomMirrorUrl>
+      <RomUrl id="rom" title="" description=" ">https://excellmedia.dl.sourceforge.net/project/zf2l/BootleggersRom/BootleggersROM-Oreo4Z00L.2.1-Stable-Shishufied-20180409.zip</RomUrl>
+      <RomMirrorUrl id="romirror" title="Mirror" description="Get the link from another place">https://sourceforge.net/projects/zf2l/files/BootleggersRom/BootleggersROM-Oreo4Z00L.2.1-Stable-Shishufied-20180409.zip/download</RomMirrorUrl>
       <ChangelogUrl id="changelogs" title="Changlogs" description="Check Out The Latest Changes">https://github.com/BootleggersROM-Devices/OTA/raw/master/Changlogs/Changlog_Z00L.xml</ChangelogUrl>
       <AddonsURL id="addons" title="Check our addons!" description="Didn't we tell you about this yet?">https://bootleggersrom.github.io/romstuff/addons</AddonsURL>  
     </Z00L>
