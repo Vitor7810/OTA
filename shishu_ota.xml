@@ -137,6 +137,14 @@
       <ChangelogUrl id="changelogs" title="Changlogs" description="Check Out The Latest Changes">https://github.com/BootleggersROM-Devices/OTA/raw/master/Changlogs/Changlog_x2.xml</ChangelogUrl>
       <AddonsURL id="addons" title="Check our addons!" description="Didn't we tell you about this yet?">https://bootleggersrom.github.io/romstuff/addons</AddonsURL>  
     </x2>
-	    
+
+    <potter>
+      <Filename>BootleggersROM-Oreo4potter.2.1-Stable-Shishufied-20180405.zip</Filename>
+      <RomUrl id="rom" title="" description=" ">https://potterroms.ddns.net/Bootleggers/BootleggersROM-Oreo4potter.2.1-Stable-Shishufied-20180405.zip</RomUrl>
+      <RomMirrorUrl id="romirror" title="XDA Thread" description="Visit The XDA Thread">https://forum.xda-developers.com/g5-plus/development/rom-bootleggersrom-2-1-stable-19-3-18-t3765565</RomMirrorUrl>
+      <ChangelogUrl id="changelogs" title="Changlogs" description="Checkout Latest Stuff">https://github.com/BootleggersROM-Devices/OTA/raw/master/Changlogs/Changlog_potter.xml</ChangelogUrl>
+      <AddonsURL id="addons" title="Check our addons!" description="Didn't we tell you about this yet?">https://bootleggersrom.github.io/romstuff/addons</AddonsURL>  
+    </potter>
+
   </Stable>	  
 </SlimOTA>
