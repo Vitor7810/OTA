@@ -1,16 +1,20 @@
-- April Security Patch
-- Added Android P System Animations
-- Added LockScreen Weather
-- Added LockScreen Clock Font Support
-- Added Option To Enable/Disable Quick Settings On Secure LockScreen
-- Added Bootleggers Maintainers Pref. On About Phone
-- Added Option To Enable/Disable QS Footer Warning
-- Added Reboot/Recovery QS Tile
-- Added NFC QS Tile
-- Added New Default Wallpaper
-- Added GoogleSans Medium font
-- Added Google Wallpaper Picker(Was Missing In Previous Build)
-- Performance Tweaks & Improvements
--Switched to Enforcing Selinux
--Fixed Camera and flashlight
-- Much More....!
+---Bootleggers ROM upadte to v2.2---
+*April security patch
+*OTA support
+*Introduces New Theme n Kernels
+*Fruity Pebbles
+*New Translations
+*Add itsaalex poison headers
+*Add DreamBendor Banner(Extras)
+
+-Kernal
+NoobKernel update
+
+*upstreamed to latest stable Linux kernel revision 3.18.105
+*up to date with boulzordev repo
+*disabled SDCardFS for time being to workaround for OBB issue
+*some upstream commits from moto for f2fs
+
+-Device
+*Added Turbo charge in lockscreen
+
