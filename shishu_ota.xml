@@ -156,6 +156,14 @@
       <ChangelogUrl id="changelogs" title="Changlogs" description="Checkout Latest Stuff">https://github.com/BootleggersROM-Devices/OTA/raw/master/Changlogs/Changlog_potter.xml</ChangelogUrl>
       <AddonsURL id="addons" title="Check our addons!" description="Didn't we tell you about this yet?">https://bootleggersrom.github.io/romstuff/addons</AddonsURL>  
     </potter>
-
+	  
+    <tomato>
+	<Filename>BootleggersROM-Oreo4tomato.2.1-Stable-Shishufied-20180412.zip</Filename>
+	<RomUrl id="rom" title="" description=" ">https://sourceforge.net/projects/kcuf/files/cruzer/Bootleggers/BootleggersROM-Oreo4tomato.2.1-Stable-Unshishufied-20180412.zip/download</RomUrl>
+        <RomMirrorUrl id="romirror" title="XDA Thread" description="Visit The XDA Thread">https://forum.xda-developers.com/yureka/general/rom-bootleggers-rom-v2-1-volte-t3777131</RomMirrorUrl>
+        <ChangelogUrl id="changelogs" title="Changlogs" description="Checkout Latest Stuff">https://github.com/BootleggersROM-Devices/OTA/raw/master/Changlogs/Changlog_tomato.xml</ChangelogUrl>
+        <AddonsURL id="addons" title="Check our addons!" description="Didn't we tell you about this yet?">https://bootleggersrom.github.io/romstuff/addons</AddonsURL>  
+    </tomato>
+	  
   </Stable>	  
 </SlimOTA>
