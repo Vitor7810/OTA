@@ -36,13 +36,10 @@
     </land>
 
     <kenzo>
-      <Filename>BootleggersROM-Oreo4kenzo.2.1-Stable-Shishufied-20180320.zip</Filename>
-      <RomUrl id="rom" title="" description="Another new update :D">https://www.androidfilehost.com/?fid=818070582850502490</RomUrl>
+      <Filename>BootleggersROM-Oreo4kenzo.2.2-Stable-Shishufied-20180415.zip</Filename>
+      <RomUrl id="rom" title="" description="Another new update :D">https://androidfilehost.com/?fid=818070582850508018</RomUrl>
       <RomMirrorUrl id="romirror" title="Mirror" description="Get the link from another place">https://google.se</RomMirrorUrl>
-      <!--
-	  <ChangelogUrl id="changelog" title="" description="">
-	  https://github.com/bootleggersrom
-	  </ChangelogUrl>-->
+      <ChangelogUrl id="changelogs" title="Changlogs" description="Check Out The Latest Changes">https://github.com/BootleggersROM-Devices/OTA/raw/master/Changlogs/Changelog_kenzo.xml</ChangelogUrl>
       <AddonsURL id="addons" title="Check our addons!" description="Didn't we tell you about this yet?">https://bootleggersrom.github.io/romstuff/addons</AddonsURL>
     </kenzo>
 
