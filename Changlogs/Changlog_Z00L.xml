@@ -1,17 +1,21 @@
-- April Security Patch
-- Added Multi Color Notification & Battery LED Support
-- Added Support For Notification LED Blinking
-- Fixed Issues With Location Service
-- Added Android P System Animations
-- Added LockScreen Weather
-- Added LockScreen Clock Font Support
-- Added Option To Enable/Disable Quick Settings On Secure LockScreen
-- Added Bootleggers Maintainers Pref. On About Phone
-- Added Option To Enable/Disable QS Footer Warning
-- Added Reboot/Recovery QS Tile
-- Added NFC QS Tile
-- Added New Default Wallpaper
-- Added GoogleSans Medium font
-- Added Google Wallpaper Picker(Was Missing In Previous Build)
+- Added Markup (Android P Screenshot Editor)
+
+- Add Support For Showing Charging Level On The Bottom Of Ambient Display
+
+- Added Charging Symbol On Ambient Display
+
+- Added Status Bar NFC Icon
+
+- Added Three Finger Swipe To Screenshot
+
+- Added Fruity pebbles
+
+- Added QS Theme Tile
+
+- Added Shishu Illusions Theme
+
+- Added More Themes
+
 - Performance Tweaks & Improvements
-- Much More....!
+
+- ‎Much More....!!
