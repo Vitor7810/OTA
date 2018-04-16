@@ -1,0 +1,131 @@
+====================
+     04-14-2018
+====================
+
+
+   * frameworks/base/
+27e57fa systemui: Fix tamil translation derp
+977ceb8 Automatic translation import
+
+   * packages/apps/BootlegDumpster/
+f4346a6 Automatic translation import
+
+   * packages/apps/BootlegOTA/
+6e37770 Automatic translation import
+
+   * packages/apps/Launcher3/
+f9e5648 Automatic translation import
+
+   * packages/apps/OmniStyle/
+0b0fd0f Fix colourlovers tint collection
+a487f8a Add itsaalex poison headers
+
+   * packages/apps/Settings/
+3b7ecfc Automatic translation import
+f587d33 settings: Let's clarify this because many people will blame us
+
+   * vendor/bootleggers/
+fe146bd vendor: Let's make the upgrade
+56f8ec0 soong: Add TARGET_USES_QTI_CAMERA_DEVICE
+
+   * vendor/bootleggers/extras/
+0aab139 Add the dreambender banner
+
+   * vendor/bootleggers/ota/
+42c72c9 Merge pull request #16 from shamith16/patch-3
+4585edc Merge pull request #15 from shamith16/patch-2
+eb3fe93 Create Changlog_potter.xml
+0f1decc add potter
+
+====================
+     04-13-2018
+====================
+
+
+   * frameworks/base/
+538a026 base: Clarify this due to people being people
+e8d82c0 base: Please don't translate names
+
+   * packages/apps/BootlegDumpster/
+d1d51f3 dumpster: [LazyWay] Restart systemUI silently
+6dd0d87 Revert "[1/2] base: Set GoBold font as default LS font"
+869f103 dumpster: Remove roboto thin, leave roboto light and light italic
+
+   * packages/apps/DUI/
+c9eab25 Fix Pulse disappearing sometimes after skipping tracks
+56fc7db Pulse: don't elaborate useless waveform
+ef5ca91 Fix potential Smartbar FC for buttons custom application
+066be04 Fix smartbar media arrows not showing sometimes
+5dd49d3 Fix FC for Fling when unpinning an app
+
+====================
+     04-12-2018
+====================
+
+
+   * build/make/
+4e7b634 Build Shishu Illusions theme [3/3]
+
+   * frameworks/av/
+abf8a1d camera: Only link and use vendor.qti.hardware.camera.device if specified
+
+   * frameworks/base/
+c90269c Base: Add Shishu Illusions theme [1/3]
+94dc93f [1/2] LS Clock Font - Switch back to Roboto Light
+3f5d509 [1/2] base: LS clock font - Let's use light instead of thin
+fe88433 ShishuNights: Fix condition cards background
+0e9e58d Add a one time QS dialog for the theme tile
+b22b259 Introduce Theme tile
+b0a56ea Allow QS detail view to scroll
+d9cd87d Add QSDetailItems
+8fcfd15 Fruity pebbles [1/4]
+
+   * hardware/interfaces/
+21a3250 camera: Only link and use vendor.qti.hardware.camera.device if specified
+
+   * packages/apps/BootlegDumpster/
+249ea3e Fruity pebbles [3/4]
+
+   * packages/apps/Settings/
+ba9925b Settings: Add Shishu Illusions theme [2/3]
+afc947c Adjust delay to prevent glitches when reloading notifications
+a544181 Settings: Disable system theme preferences when Substratum overlays are enabled
+d1067d0 Make aosp theme selector unavailable
+a5a46e7 Fruity pebbles [4/4]
+538efdd Unlink notification volume [2/2]
+5c5f336 Revert "Settings: unlink notification volume is back [2/2]"
+
+   * vendor/bootleggers/
+fd9ac5a vendor: It's more pink than red
+
+   * vendor/bootleggers/ota/
+762d113 Merge pull request #14 from kihope/master
+e943532 Update shishu_ota.xml
+879dd81 Create Changlog_x2.xml
+
+====================
+     04-11-2018
+====================
+
+
+   * frameworks/base/
+ba6a0d1 base: Add three-fingers-swipe to screenshot [1/2]
+
+   * hardware/libhardware/
+a9ccaf5 audio_amplifier: add hooks for stream parameter manipulation
+
+   * hardware/qcom/audio-caf/msm8998/
+d5f954a audio: add amplifier hooks for stream parameter manipulation
+
+   * packages/apps/BootlegDumpster/
+f6cc537 Dumpster: Add three-fingers-swipe to screenshot [2/2]
+
+   * vendor/bootleggers/
+aaea07e Fruity pebbles [2/4]
+41c259b Kill teal color for the default printer service
+f38ec72 More pixel theme changes
+57bbe54 Set FootprintPurple in a different way
+f6e08e2 vendor: Let's start teasing
+
+   * vendor/bootleggers/ota/
+22e256f add x2
