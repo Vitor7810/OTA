@@ -161,6 +161,14 @@
         <ChangelogUrl id="changelogs" title="Changlogs" description="Checkout Latest Stuff">https://github.com/BootleggersROM-Devices/OTA/raw/master/Changlogs/Changlog_tomato.xml</ChangelogUrl>
         <AddonsURL id="addons" title="Check our addons!" description="Didn't we tell you about this yet?">https://bootleggersrom.github.io/romstuff/addons</AddonsURL>  
     </tomato>
-	  
+
+    <jalebi>
+      <Filename>BootleggersROM-Oreo4jalebi.2.2-Stable-Shishufied-20180415.zip</Filename>
+      <RomUrl id="rom" title="" description="Another new update :D">https://androidfilehost.com/?fid=673956719939835083</RomUrl>
+      <RomMirrorUrl id="romirror" title="Mirror" description="Get the link from another place">https://google.se</RomMirrorUrl>
+      <ChangelogUrl id="changelogs" title="Changlogs" description="Check Out The Latest Changes">https://github.com/BootleggersROM-Devices/OTA/raw/master/Changlogs/Changelog_jalebi.xml</ChangelogUrl>
+      <AddonsURL id="addons" title="Check our addons!" description="Didn't we tell you about this yet?">https://bootleggersrom.github.io/romstuff/addons</AddonsURL>
+    </jalebi>
+
   </Stable>	  
 </SlimOTA>
