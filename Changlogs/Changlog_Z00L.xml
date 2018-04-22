@@ -1,21 +1,11 @@
-- Added Markup (Android P Screenshot Editor)
+- Added Some New Headers
 
-- Add Support For Showing Charging Level On The Bottom Of Ambient Display
+- Restart SystemUi On Applying Theme
 
-- Added Charging Symbol On Ambient Display
+- Removed P Animation (Was Causing Lags)
 
-- Added Status Bar NFC Icon
-
-- Added Three Finger Swipe To Screenshot
-
-- Added Fruity pebbles
-
-- Added QS Theme Tile
-
-- Added Shishu Illusions Theme
-
-- Added More Themes
+- Now It Will Show Asus_Z00L instead Of Asus_Z00LD On About Phone Section
 
 - Performance Tweaks & Improvements
 
-- ‎Much More....!!
+- Some More Device Specific Changes
