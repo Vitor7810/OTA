@@ -3,9 +3,9 @@
   <Stable>
 
     <surnia>
-      <Filename>BootleggersROM-Oreo4surnia.2.0-BETA-Unshishufied-20180224.zip</Filename>
-      <RomUrl id="rom" title="" description="">https://sourceforge.net/projects/bootleggersrom/files/surnia</RomUrl>
-      <RomMirrorUrl id="romirror" title="Mirror" description="Get the link from another place">https://google.se</RomMirrorUrl>
+      <Filename>BootleggersROM-Oreo4surnia.2.2-Stable-Shishufied-20180421.zip</Filename>
+      <RomUrl id="rom" title="" description="">https://androidfilehost.com/?fid=673956719939836156</RomUrl>
+      <!--<RomMirrorUrl id="romirror" title="Mirror" description="Get the link from another place">https://google.se</RomMirrorUrl> -->
       <!--
 	  <ChangelogUrl id="changelog" title="" description="">
 	  https://github.com/bootleggersrom
