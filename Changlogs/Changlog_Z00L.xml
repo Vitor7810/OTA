@@ -1,11 +1,69 @@
-- Added Some New Headers
+====================
+     04-25-2018
+====================
 
-- Restart SystemUi On Applying Theme
 
-- Removed P Animation (Was Causing Lags)
+   * frameworks/base/
+ec6e493 Revert "telephony: Hack GSM and LTE signal strength"
+edc5db4 frameworks: Fix mLteSignalStrength range check
+a037149 frameworks: Fixed signal strength issue
 
-- Now It Will Show Asus_Z00L instead Of Asus_Z00LD On About Phone Section
+   * packages/apps/BootlegDumpster/
+6f0b6de Automatic translation import
 
-- Performance Tweaks & Improvements
+====================
+     04-24-2018
+====================
 
-- Some More Device Specific Changes
+
+   * vendor/bootleggers/ota/
+43bda9f small fix
+ef3e664 Kenzo: Push Ota
+
+====================
+     04-23-2018
+====================
+
+
+   * vendor/bootleggers/ota/
+2575394 update lettuce  to 2.2
+09f00d8 Z00L: Fix The Feking Link Again
+c45b246 Z00L: 22th April Update Changlogs
+43be59b Z00L: 22th April Update
+
+====================
+     04-22-2018
+====================
+
+
+   * hardware/qcom/gps/
+f558d64 msm8084: Handle race condition in HAL post SSR
+95d40be msm8084: Memory management fixes
+3db1e8a msm8084: Add new event mask for timezone
+0705eb7 msm8084: Remove reporting gps status from loc eng layer
+cfcd2c5 msm8084: Remove Redundant Log
+797b861 msm8084: LocTimer repeated expiration
+9b17d73 msm8084: MsgTask thread must call associator function always
+34f67f0 msm8084: Adding a number of utilities
+480713d msm8084: gps.conf parameters are in sap.conf table
+afd79c7 msm8084: Adding Mutex for Creating Context
+47e0f87 msm8084: Removed unused code and unnecessary notice files
+e23874a msm8084: Avoiding race conditions during the pallellized builds in Android system
+
+   * packages/apps/Gallery2/
+0b74177 Gallery2: Fix Time bar don't update replay after trim
+9bc8ca1 Gallery2: Fix can't enable speaker with bluetooth headset
+805ce65 Gallery2: Fix null pointer when copy representantion
+
+   * packages/apps/Settings/
+82d8c6a Automatic translation import
+
+   * vendor/bootleggers/ota/
+76f5ac9 OTA: surnia update
+da825ac Merge pull request #21 from Subinsmani/patch-2
+c9d2c79 Osprey OTA
+
+====================
+     04-21-2018
+====================
+
