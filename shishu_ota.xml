@@ -84,7 +84,18 @@
 	  </ChangelogUrl>-->
       <AddonsURL id="addons" title="Check our addons!" description="Didn't we tell you about this yet?">https://bootleggersrom.github.io/romstuff/addons</AddonsURL>
     </oneplus3>
-	
+   
+    <oneplus5T>
+      <Filename>BootleggersROM-Oreo4dumpling.2.2-Stable-Shishufied-20180429.zip</Filename>
+      <RomUrl id="rom" title="" description=">https://www.androidfilehost.com/?fid=890129502657600698</RomUrl>
+      <RomMirrorUrl id="romirror" title="MIrror" description="Get the link from another place">https://google.se</RomMirrorUrl>
+      <!--
+           <ChangelogUrl id="changelog" title="" description"">
+           https://github.com/bootleggersrom
+           </ChangelogUrl>-->
+      <AddonsURL id="addons" title="Check our addons!" description="Didn't we tell you about this yet?">>https://bootleggersrom.github.io/romstuff/addons</AddonsURL>
+    </oneplus5T>
+  	
     <osprey>
       <Filename>BootleggersROM-Oreo4osprey.2.2-Stable-Shishufied-20180421.zip</Filename>
       <RomUrl id="rom" title="" description="">https://www.androidfilehost.com/?fid=890129502657599190</RomUrl>
