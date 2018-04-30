@@ -1,4 +1,31 @@
-Added Full Selinux Support
-Added Qcom Thermal
-Fixed Dialed Call Shows As Missed Calls
-Fixed QS Background Colour Glitches
+====================
+     04-28-2018
+====================
+   * device/qcom/sepolicy/
+2701dac sepolicy: Allow wcnss_service to set wlan.driver properties
+   * vendor/bootleggers/ota/
+bf602a5 Update shishu_ota.xml
+b008d17 Update Changlog_oneplus3.xml
+977c3e8 Update shishu_ota.xml
+====================
+     04-27-2018
+====================
+====================
+     04-26-2018
+====================
+====================
+     04-25-2018
+====================
+   * frameworks/base/
+ec6e493 Revert "telephony: Hack GSM and LTE signal strength"
+edc5db4 frameworks: Fix mLteSignalStrength range check
+a037149 frameworks: Fixed signal strength issue
+   * packages/apps/BootlegDumpster/
+6f0b6de Automatic translation import
+   * vendor/bootleggers/ota/
+584929c Z00L: Latest Changelog
+1590de3 Z00L: New Update
+====================
+     04-24-2018
+====================
+
