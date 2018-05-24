@@ -1,74 +1,97 @@
 ====================
-     05-09-2018
+     05-23-2018
 ====================
 
 
-   * build/make/
-8e9bb63 Merge tag 'android-8.1.0_r26' into HEAD
+   * vendor/bootleggers/ota/
+1fb6f22 Z00L: 23rd May Update
+
+====================
+     05-22-2018
+====================
+
+
+   * frameworks/base/
+353bfec SystemUI: Reload more assets on overlay change
+
+   * vendor/bootleggers/ota/
+1402830 Land:Updated 20180522
+
+====================
+     05-21-2018
+====================
+
+
+   * device/qcom/sepolicy/
+3f58c95 legacy: Add debugfs rules for rmt_storage
+b187ebf legacy: Import hci_qcomm_init policies
+
+   * frameworks/base/
+f3c6c48 Unbreak public api by hiding substratum interfaces
+a3ed0fd Add support for getAtr api
+
+   * packages/apps/Dialer/
+ec32a0a Control dialer's incoming call proximity sensor check via an overlay
+
+   * packages/apps/Launcher3/
+b540633 Launcher3: Theme more sections like System settings theme
+484ae15 Automatic translation import
+057fe19 Automatic translation import
+7c7f664 Launcher3: Fixes strings for crowdin
+1e120ea Revert "add settings activity as launcher activity, can be hidden anyway"
+649a2a7 Launcher3: Bunch of tweaks of strings and more
+3d70111 Launcher3: Add coloring into missing colors
+cc7f297 Launcher3: Move all the Lean stuff out
+f7a9c40 Launcher3: Make the icons follow the settings theme
+6bc941b Fix this back again
+1d9591a Launcher3: Set dark theme and disable bottom search bar by default
+74174bf Fix permissions not working
+7e33aa0 Change the Settings theme to match System Settings' theme
+d54344a Launcher3: Use system's accent
+21b49fe launcher3: Rebrand to Shishu HOME launcher.
+ced01bb [TEST] Bring back the launcher package declaration
 
    * packages/services/Telephony/
-52b17d7 Merge tag 'android-8.1.0_r26' into HEAD
+d83bdc2 Add getAtr support
 
    * system/core/
-029052f Merge tag 'android-8.1.0_r26' into HEAD
+50b6b3f Remove Foreground Boost CPUSet
 
-   * vendor/bootleggers/ota/
-e4325a3 Update OTA
-
-====================
-     05-08-2018
-====================
-
-   * device/oneplus/oneplus3/
-fd150e4 SELINUX add enforcing
-e4335c3 add GCam default camera
-
-* kernel/oneplus/msm8996/
-Kernel 3.18.108 GzR update
-
-
-   * hardware/qcom/gps/
-cc005ed msm8084: Handle race condition in HAL post SSR
-0c65eeb msm8084: Memory management fixes
-c14ee1e msm8084: Add new event mask for timezone
-04a4cfd msm8084: Remove reporting gps status from loc eng layer
-82b3b2e msm8084: Remove Redundant Log
-2e1c09c msm8084: LocTimer repeated expiration
-cfaef19 msm8084: MsgTask thread must call associator function always
-3481803 msm8084: Adding a number of utilities
-0ee35ad msm8084: gps.conf parameters are in sap.conf table
-b773516 msm8084: Adding Mutex for Creating Context
-b3b66fe msm8084: Removed unused code and unnecessary notice files
-b060e8e msm8084: Avoiding race conditions during the pallellized builds in Android system
-f0f796c msm8974: Return the correct length of nmea sentence
-e38211c msm8974: Don't rely on transitively included headers
-8956919 msm8974: Fix logging level and remove nmea log
-5a0fc2b msm8974: Fix duplicate gps.conf for hammerhead
-531de14 msm8974: Move device dependent modules to /vendor
-a91bbe6 msm8974: Cleanup obsolete LOCAL_PRELINK_MODULE
-c8aefee msm8974: Default apn ip type to ipv4
-e9a28cd msm8974: Add missing liblog dependency
-d3a535f Revert "msm8974: remove from top level makefile"
-e47c3fa Revert "msm8974: deprecate msm8974"
-c4d245b gps: msm8960: Move device dependent modules to /vendor
-81959a5 gps: msm8960: Cleanup obsolete LOCAL_PRELINK_MODULE
-a936736 msm8960: Default apn ip type to ipv4
-9adf5bf msm8960: Add support for IPV6 in AGPS Interface
-ef78050 gps: Use    * pathmap
-
-   * vendor/bootleggers/ota/
-d70ede2 Merge pull request #34 from pranavaryans1987/patch-6
-f7959f2 Update Hydrogen OTA
-c9636b9 Merge pull request #33 from pranavaryans1987/patch-5
-01370c7 Update OTA for Helium
-
+   * system/sepolicy/
+649b5bd sepolicy: Allow recovery to write to rootfs
+f14cd53 Revert "sepolicy: Conditionally restore support for legacy f_adb interface"
 
 ====================
-     05-05-2018
+     05-20-2018
 ====================
 
 
-   * vendor/bootleggers/ota/
-ec51e51 helium: Push OTA
-2ebd07c mido: Push 2.2-3 OTA
-d173636 hydrogen: Push OTA
+   * system/nfc/
+8488bba Memory leak fix in NFA_SetRfDiscoveryDuration()
+5fc77e0 Correct the parameter length for core_initialized()
+4e3b65f Fix TASKPTR's definition to match actual function signatures.
+dcb4954 Fix GKI task release twice issue
+
+====================
+     05-19-2018
+====================
+
+
+   * frameworks/base/
+7631d2c Themes: build as apps
+
+   * frameworks/opt/telephony/
+4763de0 Add support of new HIDL service
+ff49345 TelephonyComponentFactory: Overload makeSubscriptionInfoUpdater
+1d42138 RIL: Allow overriding RadioResponse and RadioIndication
+
+   * packages/apps/Launcher3/
+7c64e3d add option to change icon label size separately
+c6a3a94 bump version
+de5f6b3 add option to manually reset all app name/icon/visibility changes
+dc86937 add option to fall back to system default icons
+655cec9 improve icon filtering by name don't filter by components until fully parsed to avoid concurrency issues improve search UI a bit
+
+   * vendor/bootleggers/
+60f4193 vendor: Update GoogleSans fonts
+e0d2261 [1/4] La Fontage: Add prebuilt fonts
