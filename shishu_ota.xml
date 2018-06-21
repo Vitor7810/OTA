@@ -14,11 +14,10 @@
     </surnia>
 
     <mido>
-      <Filename>BootleggersROM-Oreo4mido.2.2-Stable-Shishufied-20180513.zip</Filename>
-      <RomUrl id="rom" title="2.2-3-STABLE" description="If i 
-halped you sur , pl press the danks button.">https://www.androidfilehost.com/?fid=746163614322264238</RomUrl>
-      <!--<RomMirrorUrl id="romirror" title="Mirror" description="Get the link from another place">https://google.se</RomMirrorUrl>
-	    <ChangelogUrl id="changelog" title="Changelogs" description="Check out the Latest Changes">
+      <Filename>BootleggersROM-Oreo4mido.2.3-Stable-Shishufied-20180621.zip</Filename>
+      <RomUrl id="rom" title="2.3-STABLE" description="">https://sourceforge.net/projects/bootleggersrom/files/builds/mido/BootleggersROM-Oreo4mido.2.3-Stable-Shishufied-20180621.zip</RomUrl>
+      <RomMirrorUrl id="romirror" title="Mirror" description="Get the link from another place">https://www.androidfilehost.com/?fid=746163614322275491</RomMirrorUrl>
+      <!-- <ChangelogUrl id="changelog" title="Changelogs" description="Check out the Latest Changes">
 	    https://telegra.ph/BootleggersROM-22-2-for-mido-04-19</ChangelogUrl>-->
       <AddonsURL id="addons" title="Check our addons!" description="Didn't we tell you about this yet?">https://bootleggersrom.github.io/romstuff/addons</AddonsURL>
     </mido>
