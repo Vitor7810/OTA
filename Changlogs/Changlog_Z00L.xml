@@ -1,162 +1,31 @@
 ====================
-     04-25-2018
+     21-06-2018
 ====================
-
-
-   * frameworks/base/
-ec6e493 Revert "telephony: Hack GSM and LTE signal strength"
-edc5db4 frameworks: Fix mLteSignalStrength range check
-a037149 frameworks: Fixed signal strength issue====================
-     05-11-2018
-====================
-
-
-   * frameworks/base/
-0e12bf8 wip: base: Expand header size
-
-   * vendor/bootleggers/ota/
-921aedb Update OTA For Hydrogen + Helium
-
-====================
-     05-10-2018
-====================
-
-
-   * frameworks/base/
-b1a9434 Merge tag 'android-8.1.0_r26' into HEAD
-
-   * frameworks/native/
-95e987d Add bounds check to sensors direct channel creation
-
-   * manifest/
-35963bd android 8.1.0_r28
-
-   * vendor/bootleggers/ota/
-b0c0228 Update shishu_ota.xml
-eaabf4e add new changelog
-
-====================
-     05-09-2018
-====================
-
-
-   * build/make/
-8e9bb63 Merge tag 'android-8.1.0_r26' into HEAD
-
-   * frameworks/av/
-2e7f7c3 Merge tag 'android-8.1.0_r26' into HEAD
-
-   * packages/services/Telephony/
-52b17d7 Merge tag 'android-8.1.0_r26' into HEAD
-
-   * system/core/
-029052f Merge tag 'android-8.1.0_r26' into HEAD
-
-   * vendor/bootleggers/ota/
-e4325a3 Update OTA
-
-====================
-     05-08-2018
-====================
-
-
-   * hardware/qcom/gps/
-cc005ed msm8084: Handle race condition in HAL post SSR
-0c65eeb msm8084: Memory management fixes
-c14ee1e msm8084: Add new event mask for timezone
-04a4cfd msm8084: Remove reporting gps status from loc eng layer
-82b3b2e msm8084: Remove Redundant Log
-2e1c09c msm8084: LocTimer repeated expiration
-cfaef19 msm8084: MsgTask thread must call associator function always
-3481803 msm8084: Adding a number of utilities
-0ee35ad msm8084: gps.conf parameters are in sap.conf table
-b773516 msm8084: Adding Mutex for Creating Context
-b3b66fe msm8084: Removed unused code and unnecessary notice files
-b060e8e msm8084: Avoiding race conditions during the pallellized builds in Android system
-f0f796c msm8974: Return the correct length of nmea sentence
-e38211c msm8974: Don't rely on transitively included headers
-8956919 msm8974: Fix logging level and remove nmea log
-5a0fc2b msm8974: Fix duplicate gps.conf for hammerhead
-531de14 msm8974: Move device dependent modules to /vendor
-a91bbe6 msm8974: Cleanup obsolete LOCAL_PRELINK_MODULE
-c8aefee msm8974: Default apn ip type to ipv4
-e9a28cd msm8974: Add missing liblog dependency
-d3a535f Revert "msm8974: remove from top level makefile"
-e47c3fa Revert "msm8974: deprecate msm8974"
-c4d245b gps: msm8960: Move device dependent modules to /vendor
-81959a5 gps: msm8960: Cleanup obsolete LOCAL_PRELINK_MODULE
-a936736 msm8960: Default apn ip type to ipv4
-9adf5bf msm8960: Add support for IPV6 in AGPS Interface
-ef78050 gps: Use    * pathmap
-
-   * vendor/bootleggers/ota/
-d70ede2 Merge pull request #34 from pranavaryans1987/patch-6
-f7959f2 Update Hydrogen OTA
-c9636b9 Merge pull request #33 from pranavaryans1987/patch-5
-01370c7 Update OTA for Helium
-
-====================
-     05-07-2018
-====================
-
-
-
-   * packages/apps/BootlegDumpster/
-6f0b6de Automatic translation import
-
-====================
-     04-24-2018
-====================
-
-
-   * vendor/bootleggers/ota/
-43bda9f small fix
-ef3e664 Kenzo: Push Ota
-
-====================
-     04-23-2018
-====================
-
-
-   * vendor/bootleggers/ota/
-2575394 update lettuce  to 2.2
-09f00d8 Z00L: Fix The Feking Link Again
-c45b246 Z00L: 22th April Update Changlogs
-43be59b Z00L: 22th April Update
-
-====================
-     04-22-2018
-====================
-
-
-   * hardware/qcom/gps/
-f558d64 msm8084: Handle race condition in HAL post SSR
-95d40be msm8084: Memory management fixes
-3db1e8a msm8084: Add new event mask for timezone
-0705eb7 msm8084: Remove reporting gps status from loc eng layer
-cfcd2c5 msm8084: Remove Redundant Log
-797b861 msm8084: LocTimer repeated expiration
-9b17d73 msm8084: MsgTask thread must call associator function always
-34f67f0 msm8084: Adding a number of utilities
-480713d msm8084: gps.conf parameters are in sap.conf table
-afd79c7 msm8084: Adding Mutex for Creating Context
-47e0f87 msm8084: Removed unused code and unnecessary notice files
-e23874a msm8084: Avoiding race conditions during the pallellized builds in Android system
-
-   * packages/apps/Gallery2/
-0b74177 Gallery2: Fix Time bar don't update replay after trim
-9bc8ca1 Gallery2: Fix can't enable speaker with bluetooth headset
-805ce65 Gallery2: Fix null pointer when copy representantion
-
-   * packages/apps/Settings/
-82d8c6a Automatic translation import
-
-   * vendor/bootleggers/ota/
-76f5ac9 OTA: surnia update
-da825ac Merge pull request #21 from Subinsmani/patch-2
-c9d2c79 Osprey OTA
-
-====================
-     04-21-2018
-====================
-
+- Merged Tag android-8.1.0_r30 
+- June Security Patch 
+- Added Option To Change LockScreen Clock & Date Style 
+- Added Option To Change LockScreen Clock & Date Font 
+- Added Option To Hide LockScreen Items 
+- Added Android P System Animations 
+- Added Slim Recents 3.0 
+- Added Smart Pixels 
+- Added Carbon Gestures 
+- Added Gesture Anywhere 
+- Added Lockscreen Background Tint Option 
+- Added Option To Disable Wallpaper Tint 
+- Added Power Menu Background Tint Option
+- Added Sync QS Tile 
+- Added Volume Key Cursor Control Option 
+- Change Battery Warning Color According To Accent 
+- Added Option To Quickly Open 
+Running Services From QS Panel 
+- Set Persisting Mobile Data Connection Off By 
+Default 
+- Added Option To Choose ScreenShot Editor App 
+- Fixed Disable QS 
+Footer Warning 
+- Fixed GPS 
+- Fixed Bluetooth Address 
+- Updated Default Launcher 
+- Updated Prebuilt Apps
+- Updated Transactions
