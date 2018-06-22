@@ -142,10 +142,7 @@ halped you sur , pl press the danks button.">https://sourceforge.net/projects/bo
       <Filename>BootleggersROM-Oreo4tissot.2.3-Stable-Shishufied-20180621.zip</Filename>
       <RomUrl id="rom" title="" description="https://sourceforge.net/projects/bootleggersrom/files/builds/tissot/"></RomUrl>
       <RomMirrorUrl id="romirror" title="Mirror" description="Get the link from another place">https://transfer.sh/dd5CT/BootleggersROM-Oreo4tissot.2.3-Stable-Shishufied-20180621.zip</RomMirrorUrl>
-      <!--
-          <ChangelogUrl id="changelog" title="" description="">
-	  https://github.com/bootleggersrom
-	  </ChangelogUrl>-->
+      <ChangelogUrl id="changelogs" title="Changelogs" description="Check Out The Latest Changes">https://github.com/BootleggersROM-Devices/OTA/raw/master/Changlogs/Changelog_tissot.xml</ChangelogUrl>
       <AddonsURL id="addons" title="Check our addons!" description="Didn't we tell you about this yet?">https://bootleggersrom.github.io/romstuff/addons</AddonsURL>  
     </tissot>
 	
@@ -153,7 +150,7 @@ halped you sur , pl press the danks button.">https://sourceforge.net/projects/bo
       <Filename>BootleggersROM-Oreo4Z00L.2.2-Stable-Shishufied-20180621.zip</Filename>
       <RomUrl id="rom" title="rom" description="Download The Latest Build">https://androidfilehost.com/?fid=962339331459002409</RomUrl>
       <RomMirrorUrl id="romirror" title="XDA Thread" description="Visit The XDA Thread">https://forum.xda-developers.com/zenfone-2-laser/development/rom-bootleggersrom-v2-1-t3771187</RomMirrorUrl>
-      <ChangelogUrl id="changelogs" title="Changlogs" description="Check Out The Latest Changes">https://github.com/BootleggersROM-Devices/OTA/raw/master/Changlogs/Changlog_Z00L.xml</ChangelogUrl>
+      <ChangelogUrl id="changelogs" title="Changelogs" description="Check Out The Latest Changes">https://github.com/BootleggersROM-Devices/OTA/raw/master/Changlogs/Changlog_Z00L.xml</ChangelogUrl>
       <AddonsURL id="addons" title="Check our addons!" description="Didn't we tell you about this yet?">https://bootleggersrom.github.io/romstuff/addons</AddonsURL>  
     </Z00L>
 	  
