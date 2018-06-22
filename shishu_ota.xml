@@ -177,10 +177,10 @@ halped you sur , pl press the danks button.">https://sourceforge.net/projects/bo
     </potter>
 	  
     <tomato>
-	<Filename>BootleggersROM-Oreo4tomato.2.2-Stable-Shishufied-20180515.zip</Filename>
-	<RomUrl id="rom" title="" description=" ">https://drive.google.com/file/d/1hTsCgXbIBNPZhwASCZND_y6JANUG9PBk/view?usp=drivesdk</RomUrl>
+	<Filename>BootleggersROM-Oreo4tomato.2.3-Stable-Shishufied-20180622.zip</Filename>
+	<RomUrl id="rom" title="" description=" ">https://sourceforge.net/projects/bootleggersrom/files/builds/tomato/BootleggersROM-Oreo4tomato.2.3-Stable-Shishufied-20180622.zip/download</RomUrl>
         <RomMirrorUrl id="romirror" title="XDA Thread" description="Visit The XDA Thread">https://forum.xda-developers.com/yureka/general/rom-bootleggers-rom-v2-1-volte-t3777131</RomMirrorUrl>
-        <ChangelogUrl id="changelogs" title="Changlogs" description="Checkout Latest Stuff">https://github.com/BootleggersROM-Devices/OTA/raw/master/Changlogs/Changlog_tomato.xml</ChangelogUrl>
+        <ChangelogUrl id="changelogs" title="Changlogs" description="Checkout Latest Stuff">https://github.com/BootleggersROM-Devices/OTA/raw/master/Changlogs/Changelog_tomato.xml</ChangelogUrl>
         <AddonsURL id="addons" title="Check our addons!" description="Didn't we tell you about this yet?">https://bootleggersrom.github.io/romstuff/addons</AddonsURL>  
     </tomato>
 
